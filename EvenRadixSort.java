@@ -1,6 +1,6 @@
 /*******************************************************
  * Purpose/description: A method implementing Radix sort that only accepts even arrays
- * Author's Panther ID: 2685885
+ * Author's Panther ID:
  * Certification:
  * I hereby certify that this work is my own and none of it is the work of
  * any other person
